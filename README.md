@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Allex Moon 😁
 
  <div>
- <div style="display: inline_block">
+   <div style="display: inline_block">
    <a href="https://github.com/allexmoon">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allexmoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allexmoon&layout=compact&langs_count=10&theme=tokyonight"/>
