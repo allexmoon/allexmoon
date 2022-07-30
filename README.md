@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao perfil do Allex Moon 😁
 
-| <a href="https://github.com/allexmoon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=allexmoon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alex's github stats" /></a> | <a href="https://github.com/allexmoons"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allexmoon&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/allexmoon"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=allexmoon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's github stats" /></a> | <a href="https://github.com/allexmoons"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allexmoon&layout=compact&theme=tokyonight&&langs_count=10hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
  <div>
   <div style="display: inline_block">
