@@ -1,12 +1,8 @@
 ## Bem-vindo(a) ao perfil do Allex Moon 😁
 
- <div>
-   <div style="display: inline_block">
-   <a href="https://github.com/allexmoon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allexmoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allexmoon&layout=compact&langs_count=10&theme=tokyonight"/>
-    
- </div>
+| <a href="https://github.com/allexmoon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=allexmoon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alex's github stats" /></a> | <a href="https://github.com/allexmoons"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allexmoon&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
  <div>
   <div style="display: inline_block">
   <code><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -14,8 +10,6 @@
   <code><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
  </div>
  
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
  <br>
  
